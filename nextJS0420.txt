@@ -1,0 +1,39 @@
+next js
+
+SSR을 지원하는 리액트기반 웹 프레임워크
+SEO에 유리.
+
+
+-
+
+npm run dev
+url확인
+
+-
+
+public 폴더에 img 등 asset 보관
+
+
+  파일기반 네비게이션 기능
+  pages 에 파일만들면 자동으로 경로로 사용.
+  react-router 기능.
+
+
+ 동적 파일관리 
+ 예) pages / [asdf].js 
+
+
+.ts : 타입스크립트
+.tsx : 타입스크립트 컴포넌트
+
+
+ 
+1 pages/index.tsx 수정
+
+2. styles/globals.css 수정
+
+3. styles/Home.module.css 작성
+
+4. posts 폴더생성 / pre-rendering 어쩌구 ssg-ssr어쩌구
+
+5. lib 폴더생성 / posts.ts 작성
